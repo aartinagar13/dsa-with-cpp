@@ -7,6 +7,7 @@ int main(){
     cout<<"Enter a number: ";
     cin>>num;
 
+    //  Check if number is even or odd
     if(num%2==0)
         cout<<num<<" is a even number.";
     else 

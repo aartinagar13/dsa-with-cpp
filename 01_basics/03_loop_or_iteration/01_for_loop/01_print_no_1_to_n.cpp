@@ -1,0 +1,14 @@
+//Print numbers 1 to N
+#include<iostream>
+using namespace std;
+
+int main(){
+    int n,i;
+    cout<<"Enter a number: ";
+    cin>>n;
+    
+    //  Print numbers from 1 to n
+    for(i=1;i<=n;i++)
+       cout<<i<<endl;
+    return 0;   
+}

@@ -6,6 +6,7 @@ int main(){
     int num;
     cout<<"Enter a number: ";
     cin>>num;
+    //  Check if number is positive, negative or zero
     if(num < 0)
         cout<<num<<" is a negative number.";
     else if(num >0)
