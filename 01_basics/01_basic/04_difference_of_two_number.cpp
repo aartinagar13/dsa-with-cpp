@@ -1,4 +1,4 @@
-//Difference of two number
+//Difference of two number taken input from user
 #include<iostream>
 using namespace std;
 
