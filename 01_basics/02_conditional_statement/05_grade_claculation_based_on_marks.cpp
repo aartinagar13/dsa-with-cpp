@@ -21,5 +21,4 @@ int main(){
     else 
         cout << "Grade F";
     return 0;
-
 }
