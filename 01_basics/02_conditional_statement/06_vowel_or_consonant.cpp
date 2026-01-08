@@ -16,7 +16,6 @@ int main(){
     // Convert to lowercase to handle uppercase input
     lwr_letter = tolower(letter);
 
-
     if( lwr_letter == 'a' || lwr_letter == 'e' || lwr_letter == 'i' || lwr_letter == 'o' || lwr_letter == 'u' )
         cout<<letter<<" is a vowel.";
     else     
