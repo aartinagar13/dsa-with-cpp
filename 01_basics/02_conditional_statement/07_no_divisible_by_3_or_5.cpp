@@ -1,5 +1,4 @@
 //Check if a number is divisible by 3 & 5
-
 #include<iostream>
 using namespace std;
 
@@ -15,6 +14,4 @@ int main(){
     else
        cout<<num<<" is not divisible by 3 and 5."<<endl;   
     return 0;
-
 }
-
