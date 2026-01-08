@@ -1,5 +1,4 @@
 //Check if a number is prime (simple method)
-
 #include <iostream>
 using namespace std;
 
@@ -26,5 +25,3 @@ int main() {
     cout << num << " is a prime number.";
     return 0;
 }
-
-
